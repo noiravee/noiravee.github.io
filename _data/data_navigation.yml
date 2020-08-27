@@ -1,0 +1,7 @@
+main:
+  - title: "Categories"
+    url: /categories/
+  - title: "Math&statistic"
+    url: /math/
+  - title: "Analysis"
+    url: /analysis/
